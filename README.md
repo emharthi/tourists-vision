@@ -246,7 +246,7 @@ tourists-vision/
 |
 ├── Models/
 |
-├── Row Data/
+├── Raw Data/
 │   ├── Google Maps Data/
 │   ├── Tiktok Data/
 │   └── Youtube Data/
@@ -326,6 +326,8 @@ Available modules:
 Power BI dashboard files are available in the `Dashboards/` directory.
 
 Open the `.pbix` files using **Power BI Desktop** to explore the project's interactive dashboards.
+
+---
 
 ## 12. Team Members
 
