@@ -144,41 +144,15 @@ Traditional machine learning model using TF-IDF features.
 ---
 
 ## Project Architecture
+<p align="center">
+  <img src="Assets/Project Architecture.png" alt="Tourist's Vision Architecture" width="900">
+</p>
 
-```text
-Data Sources
-│
-├── Google Maps
-├── TikTok
-└── YouTube
-        │
-        ▼
-Data Collection
-        │
-        ▼
-Data Cleaning & Preprocessing
-        │
-        ▼
-Sentiment Labeling
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Model Training
-│
-├── CAMeLBERT
-├── Bi-LSTM
-└── LinearSVC
-        │
-        ▼
-Prediction & Evaluation
-        │
-        ▼
-Power BI Dashboard
-```
+<p align="center">
+  <em>Figure 1. System Architecture of the Tourist's Vision Platform</em>
+</p>
 
----
+The architecture illustrates the complete workflow of the project, starting from multi-source data collection, followed by data preprocessing, sentiment analysis using machine learning and deep learning models, and finally visualization through interactive Power BI dashboards.
 
 ## Technologies Used
 
