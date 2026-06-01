@@ -86,17 +86,15 @@ A comprehensive preprocessing pipeline was developed to handle Arabic text chall
 
 ### Processing Steps
 
-* Data validation
-* Missing value handling
-* Column standardization
-* Arabic text normalization
-* Noise removal
-* Emoji processing
-* Translation handling
-* Stopword processing
-* Text cleaning
-* Quality filtering
-* Sentiment labeling
+<p align="center">
+  <img src="Assets/Pre-Processing Figure.png" alt="Data Preprocessing Pipeline" width="90%">
+</p>
+
+<p align="center">
+  <em>Figure 1. Data Preprocessing Workflow used in Tourist's Vision.</em>
+</p>
+
+The preprocessing pipeline includes data validation, missing value handling, column standardization, Arabic text normalization, noise removal, emoji processing, translation handling, text cleaning, quality filtering, and sentiment labeling.
 
 ### Additional Features
 
@@ -149,7 +147,7 @@ Traditional machine learning model using TF-IDF features.
 </p>
 
 <p align="center">
-  <em>Figure 1. System Architecture of the Tourist's Vision Platform</em>
+  <em>Figure 2. System Architecture of the Tourist's Vision Platform</em>
 </p>
 
 The architecture illustrates the complete workflow of the project, starting from multi-source data collection, followed by data preprocessing, sentiment analysis using machine learning and deep learning models, and finally visualization through interactive Power BI dashboards.
