@@ -269,6 +269,64 @@ tourists-vision/
 
 ---
 
+## Setup Instructions
+
+Follow these steps to set up and run the project locally.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/emharthi/tourists-vision.git
+cd tourists-vision
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### 3. Activate the Virtual Environment
+
+**Windows**
+
+```bash
+venv\Scripts\activate
+```
+
+**Mac / Linux**
+
+```bash
+source venv/bin/activate
+```
+
+### 4. Install Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run the Project
+
+Navigate to the desired project module inside the `src/` directory and execute the corresponding Python scripts.
+
+```bash
+cd src
+```
+
+Available modules:
+
+- Pre-Processing Stage
+- Exploratory Data Analysis (EDA)
+- Build Models
+- Aspect Extraction
+
+### 6. Open Dashboards
+
+Power BI dashboard files are available in the `Dashboards/` directory.
+
+Open the `.pbix` files using **Power BI Desktop** to explore the project's interactive dashboards.
+
 ## Team Members
 
 * Eyad Mohammed Alharthi
