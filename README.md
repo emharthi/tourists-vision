@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  Google Maps • TikTok • YouTube • NLP • Machine Learning • Power BI
+ • Google Maps • TikTok • YouTube • NLP • Machine Learning • Power BI
 </p>
 
 ## Overview
