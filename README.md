@@ -151,43 +151,58 @@ Traditional machine learning model using TF-IDF features.
 </p>
 
 The architecture illustrates the complete workflow of the project, starting from multi-source data collection, followed by data preprocessing, sentiment analysis using machine learning and deep learning models, and finally visualization through interactive Power BI dashboards.
-
 ## Technologies Used
 
 ### Programming
 
-* Python
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
+</p>
 
 ### Data Processing
 
-* Pandas
-* NumPy
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
+</p>
 
 ### NLP
 
-* Transformers
-* CAMeLBERT
-* Arabic NLP Processing
+<p>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="45" alt="Transformers"/>
+</p>
+
+- CAMeLBERT
+- Arabic NLP Processing
 
 ### Machine Learning
 
-* Scikit-learn
-* LinearSVC
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn"/>
+</p>
+
+- LinearSVC
 
 ### Deep Learning
 
-* TensorFlow
-* Keras
-* Bi-LSTM
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="45" alt="Keras"/>
+</p>
+
+- Bi-LSTM
 
 ### Visualization
 
-* Power BI
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45" alt="Power BI"/>
+</p>
 
 ### Data Collection
 
-* Apify
-
+<p>
+  <img src="https://avatars.githubusercontent.com/u/20525103?s=200&v=4" height="45" alt="Apify"/>
+</p>
 ---
 
 ## Key Features
