@@ -201,9 +201,8 @@ The architecture illustrates the complete workflow of the project, starting from
 ### Data Collection
 
 <p>
-  <img src="https://avatars.githubusercontent.com/u/20525103?s=200&v=4" height="45" alt="Apify"/>
+  <img src="Assets/Apify Logo.svg" height="45" alt="Apify"/>
 </p>
----
 
 ## Key Features
 
