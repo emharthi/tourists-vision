@@ -143,7 +143,7 @@ Traditional machine learning model using TF-IDF features.
 
 ---
 
-## Project Architecture
+## System Architecture
 <p align="center">
   <img src="Assets/Project Architecture.png" alt="Tourist's Vision Architecture" width="900">
 </p>
