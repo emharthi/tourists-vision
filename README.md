@@ -151,6 +151,9 @@ Traditional machine learning model using TF-IDF features.
 </p>
 
 The architecture illustrates the complete workflow of the project, starting from multi-source data collection, followed by data preprocessing, sentiment analysis using machine learning and deep learning models, and finally visualization through interactive Power BI dashboards.
+
+---
+
 ## 8. Technologies Used
 
 ### 8.1 Programming
