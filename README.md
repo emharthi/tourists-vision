@@ -314,4 +314,4 @@ Umm Al-Qura University
 
 This project was developed as part of the Bachelor of Science in Data Science graduation requirements at Umm Al-Qura University.
 
-All rights reserved © Tourist's Vision Team.
+All Rights Reserved © Tourist's Vision Team.
