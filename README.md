@@ -14,7 +14,7 @@
  • Google Maps • TikTok • YouTube • NLP • Machine Learning • Power BI
 </p>
 
-## Overview
+## 1. Overview
 
 Tourist's Vision is a graduation project developed by Data Science students at Umm Al-Qura University.
 
@@ -26,7 +26,7 @@ The project aligns with the objectives of Saudi Vision 2030 by supporting the gr
 
 ---
 
-## Project Objectives
+## 2. Project Objectives
 
 * Analyze visitor opinions toward tourism and entertainment destinations.
 * Measure visitor satisfaction across different regions of Saudi Arabia.
@@ -36,7 +36,7 @@ The project aligns with the objectives of Saudi Vision 2030 by supporting the gr
 
 ---
 
-## Dataset
+## 3. Dataset
 
 The project collected data from three major platforms:
 
@@ -47,7 +47,7 @@ The project collected data from three major platforms:
 | YouTube     |        73,555 |
 | **Total**   | **1,218,562** |
 
-### Geographic Coverage
+### 3.2 Geographic Coverage
 
 The dataset covers all major regions of Saudi Arabia:
 
@@ -59,11 +59,11 @@ The dataset covers all major regions of Saudi Arabia:
 
 ---
 
-## Data Collection
+## 4. Data Collection
 
 Data was collected using the Apify platform.
 
-### Sources
+### 4.1 Sources
 
 * Google Maps Reviews
 * TikTok Comments
@@ -80,11 +80,11 @@ The collected data includes:
 
 ---
 
-## Data Preprocessing Pipeline
+## 5. Data Preprocessing Pipeline
 
 A comprehensive preprocessing pipeline was developed to handle Arabic text challenges and multi-source data integration.
 
-### Processing Steps
+### 5.1 Processing Steps
 
 <p align="center">
   <img src="Assets/Pre-Processing Figure.png" alt="Data Preprocessing Pipeline" width="90%">
@@ -96,7 +96,7 @@ A comprehensive preprocessing pipeline was developed to handle Arabic text chall
 
 The preprocessing pipeline includes data validation, missing value handling, column standardization, Arabic text normalization, noise removal, emoji processing, translation handling, text cleaning, quality filtering, and sentiment labeling.
 
-### Additional Features
+### 5.2 Additional Features
 
 * Aspect Extraction
 * Tourism Type Extraction
@@ -106,11 +106,11 @@ The preprocessing pipeline includes data validation, missing value handling, col
 
 ---
 
-## Machine Learning Models
+## 6. Build Models
 
 The project evaluates three different sentiment analysis approaches:
 
-### CAMeLBERT-DA
+### 6.1 CAMeLBERT-DA
 
 Transformer-based Arabic language model.
 
@@ -120,7 +120,7 @@ Transformer-based Arabic language model.
 * Arabic dialect support
 * State-of-the-art performance
 
-### Bi-LSTM
+### 6.2 Bi-LSTM
 
 Deep learning sequence model.
 
@@ -129,7 +129,7 @@ Deep learning sequence model.
 * Captures contextual dependencies
 * Effective for structured review datasets
 
-### LinearSVC
+### 6.3 LinearSVC
 
 Traditional machine learning model using TF-IDF features.
 
@@ -141,7 +141,7 @@ Traditional machine learning model using TF-IDF features.
 
 ---
 
-## System Architecture
+## 7. System Architecture
 <p align="center">
   <img src="Assets/Project Architecture.png" alt="Tourist's Vision Architecture" width="900">
 </p>
@@ -151,22 +151,22 @@ Traditional machine learning model using TF-IDF features.
 </p>
 
 The architecture illustrates the complete workflow of the project, starting from multi-source data collection, followed by data preprocessing, sentiment analysis using machine learning and deep learning models, and finally visualization through interactive Power BI dashboards.
-## Technologies Used
+## 8. Technologies Used
 
-### Programming
+### 8.1 Programming
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
 </p>
 
-### Data Processing
+### 8.2 Data Processing
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
 </p>
 
-### NLP
+### 8.3 NLP
 
 <p>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="45" alt="Transformers"/>
@@ -175,7 +175,7 @@ The architecture illustrates the complete workflow of the project, starting from
 - CAMeLBERT
 - Arabic NLP Processing
 
-### Machine Learning
+### 8.4 Machine Learning
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn"/>
@@ -183,7 +183,7 @@ The architecture illustrates the complete workflow of the project, starting from
 
 - LinearSVC
 
-### Deep Learning
+### 8.5 Deep Learning
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/>
@@ -192,19 +192,19 @@ The architecture illustrates the complete workflow of the project, starting from
 
 - Bi-LSTM
 
-### Visualization
+### 8.6 Visualization
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45" alt="Power BI"/>
 </p>
 
-### Data Collection
+### 8.7 Data Collection
 
 <p>
   <img src="Assets/Apify Logo.svg" height="45" alt="Apify"/>
 </p>
 
-## Key Features
+## 8.8 Key Features
 
 * Multi-source tourism analytics
 * Arabic sentiment analysis
@@ -217,7 +217,7 @@ The architecture illustrates the complete workflow of the project, starting from
 
 ---
 
-## Results
+## 9. Results
 
 The project demonstrated strong performance across multiple datasets using:
 
@@ -236,7 +236,7 @@ The final outputs were integrated into Power BI dashboards for interactive analy
 
 ---
 
-## Repository Structure
+## 10. Repository Structure
 
 ```text
 tourists-vision/
@@ -269,24 +269,24 @@ tourists-vision/
 
 ---
 
-## Setup Instructions
+## 11. Setup Instructions
 
 Follow these steps to set up and run the project locally.
 
-### 1. Clone the Repository
+### 11.1 Clone the Repository
 
 ```bash
 git clone https://github.com/emharthi/tourists-vision.git
 cd tourists-vision
 ```
 
-### 2. Create a Virtual Environment
+### 11.2 Create a Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-### 3. Activate the Virtual Environment
+### 11.3 Activate the Virtual Environment
 
 **Windows**
 
@@ -300,13 +300,13 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 4. Install Required Dependencies
+### 11.4 Install Required Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 5. Run the Project
+### 11.5 Run the Project
 
 Navigate to the desired project module inside the `src/` directory and execute the corresponding Python scripts.
 
@@ -321,13 +321,13 @@ Available modules:
 - Build Models
 - Aspect Extraction
 
-### 6. Open Dashboards
+### 11.6 Open Dashboards
 
 Power BI dashboard files are available in the `Dashboards/` directory.
 
 Open the `.pbix` files using **Power BI Desktop** to explore the project's interactive dashboards.
 
-## Team Members
+## 12. Team Members
 
 * Eyad Mohammed Alharthi
 * Yazan Ibrahim Alghamdi
@@ -337,13 +337,13 @@ Open the `.pbix` files using **Power BI Desktop** to explore the project's inter
 
 ---
 
-## Supervisor
+## 13. Supervisor
 
 Dr. Zainy M. Aljawy
 
 ---
 
-## University
+## 14. University
 
 Data Science Department
 
@@ -355,7 +355,7 @@ Umm Al-Qura University
 
 ---
 
-## License
+## 15. License
 
 This project was developed as part of the Bachelor of Science in Data Science graduation requirements at Umm Al-Qura University.
 
