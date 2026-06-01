@@ -1,6 +1,18 @@
-# Tourist's Vision
+<p align="center">
+  <img src="Assets/Logo.png" width="400">
+</p>
 
-> AI-Powered Tourism Analytics Platform for Saudi Arabia
+<h1 align="center">Tourist's Vision</h1>
+
+<p align="center">
+  AI-Powered Tourism Analytics Platform for Saudi Arabia
+</p>
+
+
+
+<p align="center">
+  Google Maps • TikTok • YouTube • NLP • Machine Learning • Power BI
+</p>
 
 ## Overview
 
