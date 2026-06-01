@@ -227,29 +227,30 @@ The final outputs were integrated into Power BI dashboards for interactive analy
 ```text
 tourists-vision/
 │
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── labeled/
+├── Assets/
+├── Dashboards/
+|
+├── Models/
+|
+├── Row Data/
+│   ├── Google Maps Data/
+│   ├── Tiktok Data/
+│   └── Youtube Data/
 │
-├── notebooks/
+|
 │
 ├── src/
-│   ├── preprocessing/
-│   ├── labeling/
-│   ├── feature_engineering/
-│   ├── modeling/
-│   └── evaluation/
+│   ├── Pre-Processing Stage/
+│   ├── Exploratory Data Analysis (EDA)/
+│   ├── Build Models/
+│   ├── Aspect Extraction/
+│   
 │
-├── models/
+|
 │
-├── dashboards/
-│
-├── reports/
-│
-├── requirements.txt
 ├── README.md
-└── LICENSE
+├── requirements.txt
+
 ```
 
 ---
