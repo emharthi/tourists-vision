@@ -5,7 +5,7 @@
 <h1 align="center">Tourist's Vision</h1>
 
 <p align="center">
-  AI-Powered Tourism Analytics Platform for Saudi Arabia
+  An Intelligent Dashboard for Sentiment Analysis of Tourism Reviews in Saudi Arabia
 </p>
 
 
