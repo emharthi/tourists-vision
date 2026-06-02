@@ -334,11 +334,14 @@ Open the `.pbix` files using **Power BI Desktop** to explore the project's inter
 
 ## 12. Team Members
 
-* Eyad Mohammed Alharthi
-* Yazan Ibrahim Alghamdi
-* Mohammed Nedal Alshareef
-* Ziyad Omar Altalhi
-* Ayman Abdulghani Alzahrani
+
+| No. | Name | Student ID |
+|:---:|------|:----------:|
+| 1 | Eyad Mohammed Alharthi | 444000005 |
+| 2 | Yazan Ibrahim Alghamdi | 444000120 |
+| 3 | Mohammed Nedal Alshareef | 444004824 |
+| 4 | Ziyad Omar Altalhi | 444000039 |
+| 5 | Ayman Abdulghani Alzahrani | 444006406 |
 
 ---
 
