@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Logo.png" width="400">
+  <img src="Assets/Project Logo Without Background.png" width="400">
 </p>
 
 <h1 align="center">Tourist's Vision</h1>
