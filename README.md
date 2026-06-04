@@ -332,25 +332,6 @@ Open the `.pbix` files using **Power BI Desktop** to explore the project's inter
 
 ---
 
-## 12. Team Members
-
-
-| No. | Name | Student ID |
-|:---:|------|:----------:|
-| 1 | Eyad Mohammed Alharthi | 444000005 |
-| 2 | Yazan Ibrahim Alghamdi | 444000120 |
-| 3 | Mohammed Nedal Alshareef | 444004824 |
-| 4 | Ziyad Omar Altalhi | 444000039 |
-| 5 | Ayman Abdulghani Alzahrani | 444006406 |
-
----
-
-## 13. Supervisor
-
-Dr. Zainy M. Aljawy
-
----
-
 ## 14. University
 
 Data Science Department
