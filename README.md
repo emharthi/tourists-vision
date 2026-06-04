@@ -28,11 +28,11 @@ The project aligns with the objectives of Saudi Vision 2030 by supporting the gr
 
 ## 2. Project Objectives
 
-* Analyze visitor opinions toward tourism and entertainment destinations.
-* Measure visitor satisfaction across different regions of Saudi Arabia.
-* Extract sentiment trends from large-scale user-generated content.
-* Support stakeholders with interactive dashboards and tourism KPIs.
-* Transform unstructured textual data into meaningful insights.
+  * Analyze visitor opinions toward tourism and entertainment destinations.
+  * Measure visitor satisfaction across different regions of Saudi Arabia.
+  * Extract sentiment trends from large-scale user-generated content.
+  * Support stakeholders with interactive dashboards and tourism KPIs.
+  * Transform unstructured textual data into meaningful insights.
 
 ---
 
@@ -108,18 +108,18 @@ Data was collected using the Apify platform.
 
 ### 4.1 Sources
 
-* Google Maps Reviews
-* TikTok Comments
-* YouTube Comments
+  * Google Maps Reviews
+  * TikTok Comments
+  * YouTube Comments
 
 The collected data includes:
 
-* Review text
-* Ratings
-* Location information
-* Publication dates
-* Engagement metrics
-* Geographic coordinates
+  * Review text
+  * Ratings
+  * Location information
+  * Publication dates
+  * Engagement metrics
+  * Geographic coordinates
 
 ---
 
