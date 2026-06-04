@@ -57,7 +57,7 @@ The dataset covers all major regions of Saudi Arabia:
 * Southern Region
 * Northern Region
 
-### 3.3 Processed Data
+### 3.3 Access to the Data
 
 The processed datasets used in this project are available through the following resources:
 
