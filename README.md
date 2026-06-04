@@ -57,6 +57,20 @@ The dataset covers all major regions of Saudi Arabia:
 * Southern Region
 * Northern Region
 
+### 3.3 Processed Data
+
+The processed datasets used in this project are available through the following resources:
+
+- 📍 **Google Maps Reviews**
+  - [Access Dataset](https://drive.google.com/file/d/1vNVrToDvrjnE_hCgxnIxBxagcW8Jn2db/view?usp=sharing)
+
+- 🎵 **TikTok Dataset**
+  - [Access Folder](https://drive.google.com/drive/folders/1R0NA9x6H3s2kluDccCofoGI1gHFCCs9l?usp=sharing)
+
+- ▶️ **YouTube Dataset**
+  - [Access Folder](https://drive.google.com/drive/folders/1QF9JbmlgVOhA8iDwiYQsj12KrStodIqQ?usp=sharing)
+
+
 ---
 
 ## 4. Data Collection
