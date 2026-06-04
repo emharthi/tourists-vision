@@ -51,11 +51,11 @@ The project collected data from three major platforms:
 
 The dataset covers all major regions of Saudi Arabia:
 
-* Central Region
-* Western Region
-* Eastern Region
-* Southern Region
-* Northern Region
+  * Central Region
+  * Western Region
+  * Eastern Region
+  * Southern Region
+  * Northern Region
 
 ### 3.3 Access to the Data
 
