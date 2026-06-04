@@ -36,7 +36,7 @@ The project aligns with the objectives of Saudi Vision 2030 by supporting the gr
 
 ---
 
-## 3. Dataset
+## 3. Processed Dataset
 
 The project collected data from three major platforms:
 
@@ -61,15 +61,44 @@ The dataset covers all major regions of Saudi Arabia:
 
 The processed datasets used in this project are available through the following resources:
 
-- 📍 **Google Maps Reviews**
+-  **Google Maps Reviews**
   - [Access Folder](https://drive.google.com/file/d/1vNVrToDvrjnE_hCgxnIxBxagcW8Jn2db/view?usp=sharing)
 
-- 🎵 **TikTok Dataset**
+| Column Name | Description |
+| :--- | :--- |
+| `categoryName` | Represents the type of tourist destination (e.g., Park, Farm, Forest, Museum, Archaeological Site, etc.). |
+| `city` | The name of the city, governorate, or district where the location is situated. |
+| `location/lat & lng` | Two separate columns representing the latitude and longitude coordinates for each tourist site. |
+| `neighborhood` | The area or vicinity adjacent to the intended tourist landmark. |
+| `publishedAtDate` | The date the review was written and published on Google Maps. |
+| `stars` | The column containing the star ratings for the tourist destination. |
+| `street` | The name of the street where the tourist site is located. |
+| `text` | Represents the written comments and reviews provided by users who visited the location. |
+| `title` | The actual name and title of the tourist landmark. |
+
+-  **TikTok Dataset**
   - [Access Folder](https://drive.google.com/drive/folders/1R0NA9x6H3s2kluDccCofoGI1gHFCCs9l?usp=sharing)
 
-- ▶️ **YouTube Dataset**
+| Column Name | Description |
+| :--- | :--- |
+| `text` | Represents the column of comments written by users. |
+| `diggCount` | Represents the number of likes each comment received. |
+| `replyCommentTotal` | Represents the total number of replies to each comment. |
+| `createTimeISO` | Represents the date and time each comment was posted (in ISO format). |
+| `videoWebUrl` | A column containing the direct link to the video clip. |
+| `cid` | Acts as a unique Comment ID to distinguish each comment from others. |
+
+-  **YouTube Dataset**
   - [Access Folder](https://drive.google.com/drive/folders/1QF9JbmlgVOhA8iDwiYQsj12KrStodIqQ?usp=sharing)
 
+| Attribute | Description |
+| :--- | :--- |
+| `comment` | Represents the text of the comment written by users on the videos. This is the primary column used for sentiment analysis and opinion mining. |
+| `pageUrl` | Contains the URL of the YouTube video page, allowing reference to the original source of the comment. |
+| `replyCount` | Reflects the number of replies each comment received, indicating the level of interaction and discussion. |
+| `title` | Represents the title of the video from which the comments were extracted, often related to tourism or entertainment content. |
+| `videoID` | A unique identifier for each video, used to distinguish videos and link comments to them. |
+| `voteCount` | Represents the number of likes each comment received, indicating user agreement or acceptance. |
 
 ---
 
