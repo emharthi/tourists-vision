@@ -62,7 +62,7 @@ The dataset covers all major regions of Saudi Arabia:
 The processed datasets used in this project are available through the following resources:
 
 -  **Google Maps Reviews**
-  - [Access Folder](https://drive.google.com/file/d/1vNVrToDvrjnE_hCgxnIxBxagcW8Jn2db/view?usp=sharing)
+    - [Access Folder](https://drive.google.com/file/d/1vNVrToDvrjnE_hCgxnIxBxagcW8Jn2db/view?usp=sharing)
 
 | Column Name | Description |
 | :--- | :--- |
@@ -77,7 +77,7 @@ The processed datasets used in this project are available through the following 
 | `title` | The actual name and title of the tourist landmark. |
 
 -  **TikTok Dataset**
-  - [Access Folder](https://drive.google.com/drive/folders/1R0NA9x6H3s2kluDccCofoGI1gHFCCs9l?usp=sharing)
+    - [Access Folder](https://drive.google.com/drive/folders/1R0NA9x6H3s2kluDccCofoGI1gHFCCs9l?usp=sharing)
 
 | Column Name | Description |
 | :--- | :--- |
@@ -89,7 +89,7 @@ The processed datasets used in this project are available through the following 
 | `cid` | Acts as a unique Comment ID to distinguish each comment from others. |
 
 -  **YouTube Dataset**
-  - [Access Folder](https://drive.google.com/drive/folders/1QF9JbmlgVOhA8iDwiYQsj12KrStodIqQ?usp=sharing)
+    - [Access Folder](https://drive.google.com/drive/folders/1QF9JbmlgVOhA8iDwiYQsj12KrStodIqQ?usp=sharing)
 
 | Column Name | Description |
 | :--- | :--- |
