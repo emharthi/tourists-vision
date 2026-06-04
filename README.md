@@ -91,7 +91,7 @@ The processed datasets used in this project are available through the following 
 -  **YouTube Dataset**
   - [Access Folder](https://drive.google.com/drive/folders/1QF9JbmlgVOhA8iDwiYQsj12KrStodIqQ?usp=sharing)
 
-| Attribute | Description |
+| Column Name | Description |
 | :--- | :--- |
 | `comment` | Represents the text of the comment written by users on the videos. This is the primary column used for sentiment analysis and opinion mining. |
 | `pageUrl` | Contains the URL of the YouTube video page, allowing reference to the original source of the comment. |
