@@ -332,19 +332,7 @@ Open the `.pbix` files using **Power BI Desktop** to explore the project's inter
 
 ---
 
-## 14. University
-
-Data Science Department
-
-College of Computing
-
-Umm Al-Qura University
-
-2025–2026
-
----
-
-## 15. License
+## 12. License
 
 This project was developed as part of the Bachelor of Science in Data Science graduation requirements at Umm Al-Qura University.
 
