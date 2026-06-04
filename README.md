@@ -62,7 +62,7 @@ The dataset covers all major regions of Saudi Arabia:
 The processed datasets used in this project are available through the following resources:
 
 - 📍 **Google Maps Reviews**
-  - [Access Dataset](https://drive.google.com/file/d/1vNVrToDvrjnE_hCgxnIxBxagcW8Jn2db/view?usp=sharing)
+  - [Access Folder](https://drive.google.com/file/d/1vNVrToDvrjnE_hCgxnIxBxagcW8Jn2db/view?usp=sharing)
 
 - 🎵 **TikTok Dataset**
   - [Access Folder](https://drive.google.com/drive/folders/1R0NA9x6H3s2kluDccCofoGI1gHFCCs9l?usp=sharing)
