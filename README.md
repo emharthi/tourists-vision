@@ -303,6 +303,7 @@ tourists-vision/
 │   ├── Pre-Processing Stage/
 │   ├── Exploratory Data Analysis (EDA)/
 │   ├── Build Models/
+|   ├── Extract Tourism Type and Seasonal/
 │   ├── Aspect Extraction/
 │   
 │
