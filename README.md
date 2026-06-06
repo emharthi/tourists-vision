@@ -310,6 +310,7 @@ tourists-vision/
 |
 │
 ├── README.md
+├── index.html
 ├── requirements.txt
 
 ```
